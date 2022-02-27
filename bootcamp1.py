@@ -1,6 +1,6 @@
 # basic I/O
 # input()
-# output print()
+# output print() 
 
 #format
 print('saya suka {0} dan {2}'.format('buah','sayur','permen'))
